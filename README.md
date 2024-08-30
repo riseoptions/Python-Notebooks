@@ -1,4 +1,4 @@
-# Python Notebooks: OOP, Functions, Design Patterns, and Pydantic Examples
+# Python Notebooks: OOP, Functions, Design Patterns, Pydantic & Practical Examples
 
 Welcome to the Python Notebooks repository! This repository contains a collection of Jupyter notebooks that provide practical examples and exercises related to various key Python programming concepts. The notebooks cover the following topics:
 
